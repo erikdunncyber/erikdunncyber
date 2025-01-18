@@ -9,6 +9,10 @@ This page is dedicated to showcase my projects and document my educational journ
 <br/>- CompTIA Security+ (current)
 <br/>- CompTIA CySA+ (current)
 
+<h2>🔭 Current Goals</h2>
+
+I'm currently pursuing to get CCNA certified to learn concepts related to networking.
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -37,12 +41,3 @@ This page is dedicated to showcase my projects and document my educational journ
 
 <h2>🤳 Contact:</h2>
 Email: erikdunncyber@outlook.com
-
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
--->
