@@ -6,7 +6,7 @@ This page is dedicated to showcase my projects and document my educational journ
 
 <h2>📜 My Educational Achievments:</h2>
 - Bachelor of Business Administration in Computer Information Systems from Georgia State University
-- <b> CompTIA Security+ (current)</b>
+- CompTIA Security+ (current)
 - <b> CompTIA CySA+ (current)</b>
 
 <h2>👨‍💻 Software Development Projects:</h2>
