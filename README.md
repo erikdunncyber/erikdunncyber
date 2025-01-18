@@ -13,7 +13,7 @@ This page is dedicated to showcase my projects and document my educational journ
 
 I'm currently pursuing to get CCNA certified to learn concepts related to networking.
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cisco Packet Tracer Labs:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
