@@ -16,7 +16,7 @@ This page is dedicated to document my projects and educational journey.
 <h2>🔭 Current Goals</h2>
 
 - I'm looking to land a job in IT to gain real-world experience. 
-<br/> - I'm pursuing my CCNA certification to learn concepts related to networking.
+- I'm pursuing my CCNA certification to learn concepts related to networking.
 
 <br/>
 <h2>🌐 Website I developed for the Alabama Honduras Medical Education Network:</h2>
