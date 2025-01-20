@@ -1,6 +1,6 @@
 <h1>Hi, I'm Erik! <br/> IT and Cybersecurity Enthusiast</h1>
 
-<br/>
+
 <h2>📄 Purpose of My Repository:</h2>
 
 This page is dedicated to document my projects and educational journey.  
