@@ -9,7 +9,7 @@ This page is dedicated to document my projects and educational journey.
 <h2>📜 My Educational Achievments:</h2>
 - Bachelor of Business Administration in Computer Information Systems from Georgia State University
 <br/>- <a href="https://github.com/erikdunncyber/erikdunncyber/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf">CompTIA Security+</a>
-<br/>- <a [href="https://github.com/erikdunncyber/erikdunncyber/blob/main/CompTIA%20CySA%2B%20ce%20certificate.pdf">CompTIA CySA+</a> 
+<br/>- <a href="https://github.com/erikdunncyber/erikdunncyber/blob/main/CompTIA%20CySA%2B%20ce%20certificate.pdf">CompTIA CySA+</a> 
 <br/>
 <br/>
 
