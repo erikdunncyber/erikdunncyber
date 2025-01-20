@@ -10,7 +10,7 @@ This page is dedicated to document my projects and educational journey.
 - Bachelor of Business Administration in Computer Information Systems from Georgia State University
 <br/>- CompTIA Security+ (current)
 <br/>- CompTIA CySA+ (current)
-
+<br/>
 <br/>
 <h2>🔭 Current Goals</h2>
 
