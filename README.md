@@ -2,7 +2,7 @@
 
 <h2>📄 Purpose of My Repository:</h2>
 
-This page is dedicated to showcase my projects and document my educational journey.  
+This page is dedicated to document my projects and educational journey.  
 
 <h2>📜 My Educational Achievments:</h2>
 - Bachelor of Business Administration in Computer Information Systems from Georgia State University
