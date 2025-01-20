@@ -1,27 +1,27 @@
 <h1>Hi, I'm Erik! <br/> IT and Cybersecurity Enthusiast</h1>
 
-
+<br/>
 <h2>📄 Purpose of My Repository:</h2>
 
 This page is dedicated to document my projects and educational journey.  
 
-
+<br/>
 <h2>📜 My Educational Achievments:</h2>
 - Bachelor of Business Administration in Computer Information Systems from Georgia State University
 <br/>- CompTIA Security+ (current)
 <br/>- CompTIA CySA+ (current)
 
-
+<br/>
 <h2>🔭 Current Goals</h2>
 
 I'm currently pursuing to get CCNA certified to learn concepts related to networking.
 
-
+<br/>
 <h2>🌐 Website I created during my internship with the Alabama Honduras Medical Education Network:</h2>
 
 - https://www.ahmen.org/
 
-
+<br/>
 <h2>🛜 Cisco Packet Tracer Labs:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -40,6 +40,6 @@ I'm currently pursuing to get CCNA certified to learn concepts related to networ
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-
+<br/>
 <h2>🤳 Contact:</h2>
 Email: erikdunncyber@outlook.com
