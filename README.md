@@ -8,10 +8,11 @@ This page is dedicated to document my projects and educational journey.
 <br/>
 <h2>📜 My Educational Achievments:</h2>
 - Bachelor of Business Administration in Computer Information Systems from Georgia State University
-<br/>- [CompTIA Security+](CompTIA Security+ ce certificate.pdf)
-<br/>- CompTIA CySA+ (current)
+<br/>- <a href="https://github.com/erikdunncyber/erikdunncyber/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf">CompTIA Security+</a>
+<br/>- <a [href="https://github.com/erikdunncyber/erikdunncyber/blob/main/CompTIA%20CySA%2B%20ce%20certificate.pdf">CompTIA CySA+</a> 
 <br/>
 <br/>
+
 <h2>🔭 Current Goals</h2>
 
 I'm currently pursuing to get CCNA certified to learn concepts related to networking.
