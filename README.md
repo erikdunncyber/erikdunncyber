@@ -28,7 +28,7 @@ This page is dedicated to document my projects and educational journey.
 - <b>Configuring a Cisco Router's Hostname, Password, and Password Encryption through the CLI </b>
   - [Link](https://github.com/joshmadakor1/Algorithms-Practice)
 
-
+<br/>
 <br/>
 <h2>🤳 Contact:</h2>
 Email: erikdunncyber@outlook.com
