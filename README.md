@@ -19,7 +19,7 @@ This page is dedicated to document my projects and educational journey.
 - I'm pursuing my CCNA certification to learn concepts related to networking.
 
 <br/>
-<h2>🌐 Website I developed for the Alabama Honduras Medical Education Network:</h2>
+<h2>🌐 Website I Developed for the Alabama Honduras Medical Education Network:</h2>
 
 - https://www.ahmen.org/
 
