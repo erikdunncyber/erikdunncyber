@@ -29,6 +29,7 @@ This page is dedicated to document my projects and educational journey.
 <br/>- <b> Using Pings to Make Switches Learn MAC Addresses of PCs on a Network. - </b> <a href="https://github.com/erikdunncyber/Lab-Using-pings-to-make-switches-learn-MAC-addresses-of-PCs-on-a-Network.git">View Here</a>
 <br/>- <b> Configuring IP Addresses on a Router's Interfaces and Enabing Them. - </b> <a href="https://github.com/erikdunncyber/Lab-Configuring-IP-addresses-on-a-routers-interfaces-and-enabing-them.git">View Here</a>
 <br/>- <b> Configuring the Speed and Duplex on Interfaces Connected to Networking Devices. - </b> <a href="https://github.com/erikdunncyber/Lab-Configuring-the-Speed-and-Duplex-on-Interfaces-Connected-to-Networking-Devices.git">View Here</a>
+<br/>- <b> Configuring Static Routes on Routers to Allow PCs to Ping Each Other. - </b> <a href="https://github.com/erikdunncyber/Lab-Configuring-Static-Routes-on-Routers-to-Allow-PCs-to-Ping-Each-Other.git">View Here</a>
 
 <br/>
 <br/>
