@@ -32,6 +32,7 @@ This page is dedicated to document my projects and educational journey.
 <br/>- <b> Configuring Static Routes on Routers to Allow PCs to Ping Each Other. - </b> <a href="https://github.com/erikdunncyber/Lab-Configuring-Static-Routes-on-Routers-to-Allow-PCs-to-Ping-Each-Other.git">View Here</a>
 <br/>- <b> Configuring VLANs. - </b> <a href="https://github.com/erikdunncyber/Lab-Configuring-VLANs.git">View Here</a>
 <br/>- <b> Configuring Connections Using Trunking and 'Router On a Stick'. - </b> <a href="https://github.com/erikdunncyber/Lab-Configuring-Connections-Using-Trunking-and-Router-On-a-Stick.git">View Here</a>
+<br/>- <b> Configuring Layer 3 Switching to enable Inter-VLAN Routing. - </b> <a href="https://github.com/erikdunncyber/Lab-Configuring-Layer-3-Switching-to-enable-Inter-VLAN-Routing.git">View Here</a>
 
 <br/>
 <br/>
