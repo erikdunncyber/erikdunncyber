@@ -33,6 +33,7 @@ This page is dedicated to document my projects and educational journey.
 <br/>- <b> Configuring VLANs. - </b> <a href="https://github.com/erikdunncyber/Lab-Configuring-VLANs.git">View Here</a>
 <br/>- <b> Configuring Connections Using Trunking and 'Router On a Stick'. - </b> <a href="https://github.com/erikdunncyber/Lab-Configuring-Connections-Using-Trunking-and-Router-On-a-Stick.git">View Here</a>
 <br/>- <b> Configuring Layer 3 Switching to enable Inter-VLAN Routing. - </b> <a href="https://github.com/erikdunncyber/Lab-Configuring-Layer-3-Switching-to-enable-Inter-VLAN-Routing.git">View Here</a>
+<br/>- <b> Configuring VTP to Allow Sharing of VLAN Configurations across Switches. - </b> <a href="https://github.com/erikdunncyber/Lab-Configuring-VTP-to-Allow-Sharing-of-VLAN-Configurations-across-Switches.git">View Here</a>
 
 <br/>
 <br/>
